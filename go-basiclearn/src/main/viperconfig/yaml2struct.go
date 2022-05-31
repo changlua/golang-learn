@@ -1,0 +1,5 @@
+package viperconfig
+
+
+func main()  {
+}
